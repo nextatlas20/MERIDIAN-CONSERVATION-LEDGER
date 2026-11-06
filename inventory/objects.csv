@@ -1,0 +1,6 @@
+object_id,gallery,material,priority
+M-014,Gallery-A,Paper,HIGH
+M-028,Gallery-B,Metal,LOW
+M-031,Gallery-A,Textile,MEDIUM
+M-044,Gallery-C,Wood,HIGH
+M-052,Gallery-B,Ceramic,MEDIUM

@@ -1,0 +1,4 @@
+priority,observed_on,object_id,report_id,gallery,material,condition,action
+HIGH,2026-09-14,M-044,R-105,Gallery-C,Wood,CRACKED,STABILIZE
+HIGH,2026-09-15,M-014,R-106,Gallery-A,Paper,STAINED,CLEAN
+MEDIUM,2026-09-16,M-031,R-107,Gallery-A,Textile,FRAYED,REPAIR
